@@ -3,4 +3,6 @@
     <color name="primary">#55ff55</color>
     <color name="background_gradient_start">#ccc</color>
     <color name="background_gradient_end">#353535</color>
+    <color name="fastlane_background">#0096e6</color>
+    <color name="search_opaque">#ffaa3f</color>
 </resources>
