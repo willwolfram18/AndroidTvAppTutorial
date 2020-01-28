@@ -21,7 +21,7 @@ class CardPresenter : Presenter() {
 
         val cardView = ImageCardView(context)
 
-        cardView.focusable = View.FOCUSABLE
+//        cardView.focusable = View.FOCUSABLE
         cardView.isFocusableInTouchMode = true
 
         if (context != null) {
